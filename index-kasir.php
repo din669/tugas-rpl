@@ -14,10 +14,7 @@ if ($level!="3") {
 }
 
 $_SESSION["id_karyawan"]=$_SESSION["id_karyawan"];
-$_SESSION["username"]=$_SESSION["username"];
-$_SESSION["nama_karyawan"]=$_SESSION["nama_karyawan"];
-$_SESSION["jabatan"]=$_SESSION["jabatan"];
-$_SESSION["level"]=$_SESSION["level"];
+
 
 ?>
 <?php include_once("functions.php");?>
